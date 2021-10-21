@@ -14,9 +14,9 @@ public class NonStaticMembersDemo {
 	
 	public static void main(String[] args) {
 		System.out.println("insede the main method 3");
-		NonStaticMembersDemo obj = new NonStaticMembersDemo();
-		
-		obj.doSomething();
+		new NonStaticMembersDemo();
+		new NonStaticMembersDemo(); 
+		new NonStaticMembersDemo();
 	}
 	
 	static {
