@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+X:\00.ESTAGIO NA IBM\CURSOS\JAVA\JavaUdemy\.metadata\.plugins\org.eclipse.jdt.core
+3285135714.index
+231542903.index
+4044757637.index

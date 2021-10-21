@@ -1,0 +1,12 @@
+
+public class StaticMethodsDemo {
+
+	public static void main(String[] args) {
+		StaticMethodsDemo.metho1();
+	}
+
+	static void metho1() {
+		System.out.println("insede method1");
+	}
+	
+}

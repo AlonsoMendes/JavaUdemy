@@ -1,0 +1,14 @@
+package NoStatic;
+
+public class NonStaticMembersDemo {
+	
+	int num;
+	
+	NonStaticMembersDemo() {
+		System.out.println();
+	}
+	{
+		System.out.println("Inside the non static block");
+	}
+	
+}
